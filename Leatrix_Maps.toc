@@ -1,10 +1,11 @@
-﻿## Interface: 11306
+﻿## Interface: 30300
 
 ## Title: Leatrix Maps
 ## Notes: Enhancements for your maps.
 
-## Version: 1.13.100
+## Version: 3.3.5
 ## Author: Leatrix
+## Updater: ReynoldsCahoon
 ## SavedVariables: LeaMapsDB
 
 Leatrix_Maps_Library.lua
